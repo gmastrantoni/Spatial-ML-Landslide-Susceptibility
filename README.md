@@ -8,7 +8,7 @@ The project aims to increase our understandment of landslide risk around use to 
 
 ## Objectives
 
-1. Analyze and prepare landslide records in Centrail Italy.
+1. Analyze and prepare landslide records in Central Italy.
 2. Extracting several predictors for landslide occurrence.
 3. Investigate the relationship between predictors values of stable and unstable points.
 4. Train Gradient-Boosting model to predict locations with high-probability of future slope movements.
